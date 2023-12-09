@@ -3,7 +3,9 @@ This repository showcases a Facial Recognition Attendance Management System inte
 
 System Diagram:
 ![system2](https://github.com/bilalkhan1132/Real-Time-Facial-Recognition-Attendance-System-with-door-lock/assets/99952887/469c5b39-ada9-4a8e-9345-9e7c3486230b)
+
 Methodology Diagram:
 ![methodology_thesis](https://github.com/bilalkhan1132/Real-Time-Facial-Recognition-Attendance-System-with-door-lock/assets/99952887/12ea4890-fcdd-441b-b47a-5309f77cfc88)
+
 FlowChart Diagram:
 ![flowchart](https://github.com/bilalkhan1132/Real-Time-Facial-Recognition-Attendance-System-with-door-lock/assets/99952887/5cf6b553-fcf2-422b-be90-9b2031f3025a)
